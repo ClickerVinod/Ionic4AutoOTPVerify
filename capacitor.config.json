@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.clicker.ionic4autootpverify",
   "appName": "Ionic4CapOTPAutoVerify",
   "bundledWebRuntime": false,
   "npmClient": "npm",
