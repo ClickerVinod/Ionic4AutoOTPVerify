@@ -1,0 +1,7 @@
+{
+  "name": "Ionic4CapOTPAutoVerify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
